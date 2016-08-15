@@ -1,0 +1,8 @@
+ProjectSettingsPath: '[ProjectRoot]/ProjectSettings'
+AssetsFolder:
+- unity.viewer.assets
+- uneaty.sockets.io
+PluginsFolder:
+- unity.sockets.io
+- uneaty.core
+- uneaty.visualization
